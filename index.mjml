@@ -1,0 +1,179 @@
+<mjml>
+  <mj-head>
+
+    <mj-preview>
+      Our commitment to you.
+    </mj-preview>
+
+    <mj-attributes>
+
+      <mj-all
+        font-family="Open Sans, Arial, Helvetica, sans-serif"
+        color="#000000"
+      />
+
+      <mj-column padding="0" />
+
+        
+
+      <mj-text
+        font-size="18px"
+        line-height="24px"
+        color="#000000"
+        padding="0"
+      />
+
+      <mj-image padding="0" />
+
+      <mj-button
+        background-color="#163828"
+        color="#ffffff"
+        border-radius="60px"
+        font-size="16px"
+        font-weight="700"
+      />
+
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#fefefe">
+  <mj-wrapper padding="20px">
+
+    <mj-section>
+      <mj-column>
+      <mj-image src="https://assets.parceldns.com/assets/cd659c3a-1731-4082-9954-786fb79fff87/c3136c59-e85c-4244-851d-2b9e5240aabc.png?parcelPath=/Eden" alt="eden logo" width="100px" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+        <mj-image src="https://userimg-assets.customeriomail.com/images/client-env-158749/1747884409611_Email%20Banner%201.1%20from%20Victor_1747884399_01JVV0F0W43DY0RT2H605TF0N1.png" alt="Our commitment to you" width="500px"/>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+            <mj-text>
+                Our care, our priority. Our promise is to ensure that your journey to better health is supported by comprehensive, reliable, and services. In addition to connecting you with licensed providers and accredited pharmacies, for your treatments, we go above and beyond to ensure:
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section border="1px solid #e6d7cb" border-radius="20px" background-color="#faf7f5"padding="16px">
+  <mj-column width="80px" vertical-align="middle">
+    <mj-image align="left" padding="0"
+      src="https://assets.parceldns.com/assets/cd659c3a-1731-4082-9954-786fb79fff87/b502ef26-36a1-40e1-9c62-8d9858eb233f.png?parcelPath=/Assets/email-12-1.png"
+      alt=""
+      width="60px"/>
+  </mj-column>
+  <mj-column width="350px" vertical-align="middle">
+    <mj-text 
+      padding="0"
+      font-size="16px"
+      font-weight="700">
+      <span style="color:#4c7a39;">Included</span> Consultations
+    </mj-text>
+    <mj-text 
+      padding="10px 0 0"
+      font-size="14px">
+      Online consultations with your doctor are part of your membership, so you can adjust your dose as needed with pricing that stays flat and predictable at every dose.
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding="0 0 16px"/>
+    <mj-section border="1px solid #e6d7cb" border-radius="20px" background-color="#faf7f5"padding="16px">
+        <mj-column width="80px" vertical-align="middle">
+            <mj-image align="left" padding="0" src="https://assets.parceldns.com/assets/cd659c3a-1731-4082-9954-786fb79fff87/b502ef26-36a1-40e1-9c62-8d9858eb233f.png?parcelPath=/Assets/email-12-1.png" alt="" width="60px"/>
+        </mj-column>
+        <mj-column width="350px" vertical-align="middle">
+            <mj-text font-size="16px" font-weight="700" padding="0">
+            <span style="color:#4c7a39;">24/7</span> Support Availability
+            </mj-text>
+            <mj-text font-size="14px" padding="10px 0 0">
+                Our care team is here whenever you need us, so support is always within reach throughout your journey.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 16px"/>
+    <mj-section border="1px solid #e6d7cb" border-radius="20px" background-color="#faf7f5"padding="16px">
+        <mj-column width="80px" vertical-align="middle">
+            <mj-image align="left" padding="0" src="https://assets.parceldns.com/assets/cd659c3a-1731-4082-9954-786fb79fff87/b502ef26-36a1-40e1-9c62-8d9858eb233f.png?parcelPath=/Assets/email-12-1.png" alt="" width="60px"/>
+        </mj-column>
+        <mj-column width="350px" vertical-align="middle">
+            <mj-text font-size="16px" font-weight="700" padding="0">Comprehensive <span style="color:#4c7a39;">Support Channels</span>
+            </mj-text>
+            <mj-text font-size="14px" padding="10px 0 0">
+                From chat to check-ins, we make it easy to reach your care team across multiple channels so you always have the guidance you need.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+            <mj-button>
+                Get Started
+            </mj-button>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+            <mj-text font-size="14px" align="center">
+                *A physician reviews your intake often within 24 hours. In most states, this is done asynchronously without having to schedule an appointment.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+            <mj-text font-size="12px" align="center" line-height="1.5" font-family="Open Sans, Helvetica, Arial, sans-serif">
+                Prescription required. FDA does not approve compounded drugs for safety or efficacy. See website for <a style="color:black" href="https://www.eden.health/safety-info">safety information</a>. Eden does not provide medical services. Medical services are provided through a contracted network of state-licensed physicians who may prescribe treatments as needed to meet patient requirements. Not all programs and services are available in all 50 states. Plans are offered as a subscription service, which can be canceled at any time. Actual product packaging may appear differently than shown. Results may vary based on individual health factors.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+        <mj-table align="center" width="auto">
+        <tr>
+        <td style="padding:0 8px;"><a href="#">
+        <img src="https://userimg-assets.customeriomail.com/images/client-env-158749/1744145376766_2504%20Social%20Icons%20FB%20Facebook_01JRBJMSJE4DA63XEAFX23BRE0.png" alt="Facebook icon" width="45"/>
+        </td>
+
+    <td style="padding:0 8px;">
+      <a href="#">
+        <img src="https://userimg-assets.customeriomail.com/images/client-env-158749/1744145377617_2504%20Social%20Icons%20X%20Twitter_01JRBJMTD1N3RMSQE8V9K6D8DA.png" alt="Twitter icon" width="45">
+      </a>
+    </td>
+    <td style="padding:0 8px;">
+    <a href="#">
+    <img src="https://userimg-assets.customeriomail.com/images/client-env-158749/1744145377348_2504%20Social%20Icons%20TT%20Tiktok_01JRBJMT4P20M2K9JW254PBYFR.png" alt="Tictoc icon" width="45"/>
+    </a>
+    </td>
+    <td style="padding:0 8px;">
+     <a href="#">
+     <img src="https://userimg-assets.customeriomail.com/images/client-env-158749/1744145377064_2504%20Social%20Icons%20IG%20Instagram_01JRBJMSVS2FMWRAVXYE6602NE.png" alt="Instagram icon" width="45"/>
+     </a>
+    </td>
+  </tr>
+</mj-table>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+        <mj-column>
+            <mj-text align="center" font-size="20px">
+                <strong>Find Your Eden</strong>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+            <mj-text font-size="14px" align="center">
+                <strong>hello@SmilesDavis.yeah</strong> | (555) 123-4567
+            </mj-text>
+            <mj-text font-size="11px" align="center" line-height="1.5" padding="10px 0">
+                © 2026 Eden Health, All rights reserved.<br />110 16th St, Ste 1431, Denver, CO 80202<br />
+            </mj-text>
+            <mj-text font-size="11px" align="center" line-height="1.5">
+                 The email was sent to <a href="#" style="color:#B0BF88">hello@SmilesDavis.yeah</a>. To no longer receive these emails, <a href="#" style="color#B0BF88">unsubscribe</a> here.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+</mj-wrapper>
+  </mj-body>
+</mjml>
