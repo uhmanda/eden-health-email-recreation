@@ -170,7 +170,7 @@
                 © 2026 Eden Health, All rights reserved.<br />110 16th St, Ste 1431, Denver, CO 80202<br />
             </mj-text>
             <mj-text font-size="11px" align="center" line-height="1.5">
-                 The email was sent to <a href="#" style="color:#B0BF88">hello@SmilesDavis.yeah</a>. To no longer receive these emails, <a href="#" style="color#B0BF88">unsubscribe</a> here.
+                 The email was sent to <a href="#" style="color:#B0BF88">hello@SmilesDavis.yeah</a>. To no longer receive these emails, <a href="#" style="color:#B0BF88">unsubscribe</a> here.
             </mj-text>
         </mj-column>
     </mj-section>
