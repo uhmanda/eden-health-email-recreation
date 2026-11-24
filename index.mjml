@@ -60,7 +60,7 @@
     <mj-section border="1px solid #e6d7cb" border-radius="20px" background-color="#faf7f5"padding="16px">
   <mj-column width="80px" vertical-align="middle">
     <mj-image align="left" padding="0"
-      src="https://assets.parceldns.com/assets/cd659c3a-1731-4082-9954-786fb79fff87/b502ef26-36a1-40e1-9c62-8d9858eb233f.png?parcelPath=/Assets/email-12-1.png"
+      src="images/eden-email-scrabble-image.jpg"
       alt=""
       width="60px"/>
   </mj-column>
