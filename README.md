@@ -4,7 +4,7 @@ A responsive marketing email recreated using MJML.
 
 ## Preview
 
-![Eden health email recreation](eden-email-preview.jpeg)
+![Eden health email recreation](images/eden-email-preview.jpeg)
 
 ## Built With
 
