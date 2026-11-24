@@ -40,14 +40,13 @@
   <mj-body background-color="#fefefe">
   <mj-wrapper padding="20px">
 
-    <mj-section>
-      <mj-column>
-      <mj-image src="https://assets.parceldns.com/assets/cd659c3a-1731-4082-9954-786fb79fff87/c3136c59-e85c-4244-851d-2b9e5240aabc.png?parcelPath=/Eden" alt="eden logo" width="100px" />
-      </mj-column>
-    </mj-section>
-    <mj-section>
+    
+    <mj-section padding="40px 0 20px 0">
         <mj-column>
-        <mj-image src="https://userimg-assets.customeriomail.com/images/client-env-158749/1747884409611_Email%20Banner%201.1%20from%20Victor_1747884399_01JVV0F0W43DY0RT2H605TF0N1.png" alt="Our commitment to you" width="500px"/>
+        <mj-text font-family="Georgia, serif" align="center" font-size="35px" font-weight="700" color="#4c7a39" padding="0 0 20px 0">
+  EDEN
+  </mj-text>
+        <mj-image src="images/eden-email-scrabble-image.jpg" alt="Scrabble pieces" width="500px" border-radius="10px"/>
         </mj-column>
     </mj-section>
     <mj-section>
